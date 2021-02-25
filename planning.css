@@ -1,0 +1,44 @@
+table 
+{
+    width: 100%;
+    height: 350px;
+    color:white;
+    font-family: 'Arima Madurai', cursive;
+}
+.heure {
+    background-color: white ;
+    color:#000000;
+}
+th 
+{
+    background-color: gainsboro ;
+    color:black;
+}
+.th {
+    background-color: gainsboro ;
+    color:black;
+}
+.yoga{
+    background-color:#009bcc ;
+}
+.biking{
+    background-color:#96c21f;
+    }
+.stretching{
+    background-color:#11bcaf ;
+        }
+.cardio{
+    background-color:#7459ad;
+        }
+.selfdefense{
+    background-color:#e65686;
+        }
+.boxe{
+    background-color: #d9006b;
+                }
+.crossfit{
+    background-color: rgb(255, 136, 0);
+     }
+.image {
+    background-image:url(stripes.png);
+}
