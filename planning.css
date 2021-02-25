@@ -5,6 +5,12 @@ table
     color:white;
     font-family: 'Arima Madurai', cursive;
 }
+.mini {
+    height: 10px;
+}
+.entete {
+    height: 65px;
+}
 .heure {
     background-color: white ;
     color:#000000;
